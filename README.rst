@@ -2,6 +2,13 @@
 XuLA FPGA Board Repository
 ==========================================
 
+chaos version
+
+learn route:
+fmw ->
+       fmw/boot
+       fmw/user
+
 ----------------------------------------------------
 Where you'll find *everything* XuLA-related!
 ----------------------------------------------------
